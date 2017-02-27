@@ -1,0 +1,14 @@
+<meta>
+	<info author="*An0n-" type="script" name="dd System Scripts" version="1.0" />
+	
+	<script src="hpnos.lua" type="client" cache="false" />
+	<script src="topwins_s.lua" type="server" />
+	<script src="topwins_c.lua" type="client" cache="false" />
+	<script src="kill_s.luac" type="server" />
+	<script src="kill_c.luac" type="client" cache="false" />
+	<script src="notifications_c.luac" type="client" cache="false" />
+	<script src="notifications_c1.luac" type="client" cache="false" />
+	
+	<file src="Bariol_Bold.otf" />
+	<file src="Bariol_Regular.otf" />
+</meta>

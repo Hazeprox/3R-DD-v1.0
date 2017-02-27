@@ -1,0 +1,7 @@
+<meta>
+	<!-- Info -->
+	<info MainAuthor="Goomba" editBy="UAEpro-GhettO" description="Goomba's Clanwar script" version="1.3" type="script" />
+	<file src="img/Akranes.png" type="client" />
+
+	<script src="GhettO's.lua" type="client" />	
+</meta>

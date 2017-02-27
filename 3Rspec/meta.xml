@@ -1,0 +1,8 @@
+<meta>
+	<info type='script' version='0.1.0' author='~[KiG]~SpUnKyMe' description='Adds list on player screen with names spectating him/her' />
+	
+	<script src='client_spec.lua' type='client' />
+
+	<script src='server_spec.lua' type='server' />
+	
+</meta>

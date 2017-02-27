@@ -1,0 +1,9 @@
+<meta>
+	<info author="AcidbRain" version="0.0.1" type="script" name="Digital Speedometer" description="" />
+	
+	<script src="c_textlib.lua" type="client" />
+	<script src="c_gui.lua" type="client" />
+	<script src="c_settings.lua" type="client" />
+	<script src="c_main.lua" type="client" />
+	<file src="font.ttf" type="client" />
+</meta>

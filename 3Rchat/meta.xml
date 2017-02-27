@@ -1,0 +1,7 @@
+<meta>
+<info author="Andrei_64rus" version="1.3.2" type="script" />
+<include resource="helpmanager" />
+<script src="ktypestatus.lua" type="server"/>
+<script src="ktypestatus_cl.lua" type="client"/>
+<file src="chat.png" />
+</meta>

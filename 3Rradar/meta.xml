@@ -1,0 +1,10 @@
+<meta>
+	<script src="client.luac" type="client" />
+	<file src="img/north.png" />
+	<file src="img/blip.png" />
+	<file src="img/blipup.png" />
+	<file src="img/blipdown.png" />
+	<file src="img/local.png" />
+	<file src="img/heli.png" />
+	<file src="img/hunter.png" />
+</meta>

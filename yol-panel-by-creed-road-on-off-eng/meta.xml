@@ -1,0 +1,19 @@
+<meta>
+    <info type="script" name="yol ac kapa" author="Creed" version="1.0.1"/>
+
+	<script src="vgncarshade1.txd" type="client" />
+
+
+	
+        
+	<file src="DD/roads/3458.dff" />
+        <file src="DD/roads/8558.dff" />
+
+        <file src="DD/roads/8557.dff" />
+	
+
+
+	<script src="yol.luac" type="client"/>
+	
+
+</meta>

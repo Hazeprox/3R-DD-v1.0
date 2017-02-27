@@ -1,0 +1,6 @@
+<meta>
+<info author="spAik" version="1.0" type="script" name="basic3R" description="basic3R" showInResourceBrowser="true"/>
+<!--SERVER SCRIPTS-->
+<script src="server_basic.lua" type="server" />
+<script src="client_basic.lua" type="client" />
+</meta>

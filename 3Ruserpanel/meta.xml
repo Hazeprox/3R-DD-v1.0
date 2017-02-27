@@ -1,0 +1,64 @@
+<meta>
+  <info author= "Haze"/>
+	<script src="c.lua" type="client"/>
+	<script src="shader.lua" type="client"/>
+	<script src="kill_c.lua" type="client"/>
+	<script src="c_water.lua" type="client"/>
+	<script src="kill_s.lua" type="server"/>
+	<script src="lvl_s.lua" type="server"/>
+	<script src="maps_s.lua" type="server"/>
+	<script src="gridlist_lib.lua" type="client"/>
+	<script src="bloom_c.lua" type="client"/>
+	<script src="util.lua" type="server" />
+	<script src="s_skidmarks.lua" type="server" />
+	<script src="util.lua" type="client" />
+	<script src="c_skidmarks.lua" type="client" />
+
+	<file src="skidmarks.fx" type="client" />
+	<file src="shader.fx"/>
+	<file src="mta-helper.fx"/>
+	<file src="water.fx"/>
+	<file src="carsmoke.fx"/>
+	<file src="brightPass.fx"/>
+	<file src="blurV.fx"/>
+	<file src="blurH.fx"/>
+	<file src="addBlend.fx"/>
+	<file src="shadersfile/smallnoise3d.dds" />
+	<file src="shadersfile/cube_env256.dds" />
+	
+	<file src="pngs/avatar.png" />
+	<file src="pngs/book.png" />
+	<file src="pngs/earth-globe.png" />
+	<file src="pngs/settings.png" />
+	<file src="pngs/shopping-cart.png" />
+	
+	<file src="wheels/1025.jpg" />
+	<file src="wheels/1025.jpg" />
+	<file src="wheels/1073.jpg" />
+	<file src="wheels/1074.jpg" />
+	<file src="wheels/1075.jpg" />
+	<file src="wheels/1076.jpg" />
+	<file src="wheels/1077.jpg" />
+	<file src="wheels/1078.jpg" />
+	<file src="wheels/1079.jpg" />
+	<file src="wheels/1080.jpg" />
+	<file src="wheels/1081.jpg" />
+	<file src="wheels/1082.jpg" />
+	<file src="wheels/1083.jpg" />
+	<file src="wheels/1084.jpg" />
+	<file src="wheels/1085.jpg" />
+	<file src="wheels/1096.jpg" />
+	<file src="wheels/1097.jpg" />
+	<file src="wheels/1098.jpg" />
+	<file src="skins/0.png" />
+	<file src="skins/1.png" />
+	<file src="skins/2.png" />
+	<file src="skins/20.png" />
+	<file src="skins/45.png" />
+	<file src="skins/63.png" />
+	<script src="picker_client.lua" type="client" />
+	<file src="cursor.png" />
+	<file src="h.png" />
+	<file src="sv.png" />
+	<file src="blank.png" />
+</meta>

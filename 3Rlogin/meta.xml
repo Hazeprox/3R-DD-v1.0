@@ -1,0 +1,18 @@
+<meta>
+	<info author="*An0n-" type="script" name="dd System Scripts" version="1.0" />
+	
+	<script src="notifications_c.lua" type="client" cache="false" />
+	<script src="dx_lib.lua" type="client" cache="false" />
+	<script src="login_s.lua" type="server" />
+	<script src="login_c.lua" type="client" cache="false" />
+	
+	<file src="Bariol_Regular.otf" />
+	
+	<file src="img/background.png" />
+	<file src="img/bar_top.png" />
+	<file src="img/button.png" />
+	<file src="img/checkbox.png" />
+	<file src="img/password.png" />
+	<file src="img/person.png" />
+	<file src="img/search.png" />
+</meta>
